@@ -17,6 +17,8 @@ var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 
 // do your work below!
 
+//push excercise
+
 var nameArray = [];
 nameArray.push("Andrew");
 nameArray.push("Tram");
@@ -24,3 +26,8 @@ nameArray.push("Tram");
   //return nameArray;
 
 genericNumberArray.push(6, 7, 8, 9, 10);
+
+//pop excercises
+
+popResult = colors.pop(3);
+
